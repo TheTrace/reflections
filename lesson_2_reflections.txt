@@ -3,10 +3,17 @@
 - The repository is ready to have files added to it.
 - You stil need to add the files, and then commit them (eventually)
 
+
 **What happens when you initialize a repository? Why do you need to do it?
+
+- The hidden .git folder is created and everything is set up for git to work on the working directory
+
 
 **How is the staging area different from the working directory and the repository?
 **What value do you think it offers?
+
+- The staging area lets you put files on the table as it were to be committed together in a logical bundle.  Not all the changed files need to be committed if they don't relate to the change.
+
 
 **How can you use the staging area to make sure you have one commit per logical
 change?

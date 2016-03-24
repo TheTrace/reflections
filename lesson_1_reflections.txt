@@ -1,0 +1,8 @@
+11:04 22/03/2016
+* How might using version control make you more confident to make changes that could break something?
+- You could roll back to a previous working version easily.
+- You could compare the changes and fix the broken bits
+
+* Now that you have your workspace set up, what do you want to try using Git for?
+- Lots of projects
+- Tie into AJW bits & pieces (eg Collaborations, etc for SCRIBE)

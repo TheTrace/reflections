@@ -12,7 +12,8 @@
 **How is the staging area different from the working directory and the repository?
 **What value do you think it offers?
 
-- The staging area lets you put files on the table as it were to be committed together in a logical bundle.  Not all the changed files need to be committed if they don't relate to the change.
+- The staging area lets you put files on the table as it were to be committed together
+ in a logical bundle.  Not all the changed files need to be committed if they don't relate to the change.
 
 
 **How can you use the staging area to make sure you have one commit per logical
@@ -29,12 +30,15 @@ organized? How would branches help?
 
 
 **How do the diagrams help you visualize the branch structure?
-- They give you a framework of how things tie together
-- They're helpful for visualising relationships between entities
+- They give you a framework of how tie branches tie together.
+- They're helpful for visualising relationships between entities and branches.
 
 
 **What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+- The two branches become the one branch, but with a bump where they were separate.
+- Having the diagram helps to show the history of the process to the current state.
+
 
 **What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

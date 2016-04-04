@@ -1,7 +1,7 @@
 **What happens when you initialize a repository? Why do you need to do it?
 
 - The repository is ready to have files added to it.
-- You stil need to add the files, and then commit them (eventually)
+- You still need to add the files, and then commit them (eventually)
 
 
 **What happens when you initialize a repository? Why do you need to do it?
@@ -29,6 +29,9 @@ organized? How would branches help?
 
 
 **How do the diagrams help you visualize the branch structure?
+- They give you a framework of how things tie together
+- They're helpful for visualising relationships between entities
+
 
 **What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
